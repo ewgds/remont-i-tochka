@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ремонт и Точка - Цены</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/price.css">
+</head>
+<body>
+    <header>
+            <h1><span style="color: #0EA5E9;">Ремонт</span> и Точка</h1>
+            <nav>
+                <a href="index.html">Главная</a>    
+                <a href="price.html">Цены</a>
+                <a href="reviews.html">Отзывы</a>
+                <a href="contacts.html">Контакты</a>
+                <a href="tel:+79054321116" class="call-button">+7 (905) 432-11-16</a>
+            </nav>
+    </header>
+
+    <main class="calculator-section">
+        <div class="container">
+            <h2>Калькулятор <span class="highlight">стоимости ремонта</span></h2>
+            <p class="subtitle">Выберите устройство и тип ремонта для предварительной оценки</p>
+
+            <div class="calculator-box">
+                <div class="selectors">
+                    <div class="selector-group">
+                        <label for="brand">Выберите бренд</label>
+                        <select id="brand">
+                            <option value="">-- Выберите бренд --</option>
+                        </select>
+                    </div>
+                    <div class="selector-group">
+                        <label for="model">Выберите модель</label>
+                        <select id="model" disabled>
+                            <option value="">-- Сначала выберите бренд --</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="repair-types">
+                    <h3>Тип ремонта</h3>
+                    <div class="repair-grid" id="repairGrid">
+                    </div>
+                </div>
+
+                <div class="call-field">
+                    <a href="tel:+79054321116" class="call-button">Позвонить</a>
+                </div>
+
+                <div class="important-info">
+                    <h3>Важная информация</h3>
+                    <ul>
+                        <li>Стоимость запчастей оговаривается с мастером после диагностики</li>
+                        <li>Диагностика бесплатна для всех устройств, кроме ПК (1500₽)</li>
+                        <li>Используем только оригинальные или сертифицированные запчасти</li>
+                        <li>Гарантия на все виды работ</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Ремонт и Точка. Все права защищены.</p>
+        <p>Ростов-на-Дону, пр-кт Коммунистический, 10А/2</p>
+    </footer>
+    <script src="js/price.js"></script>
+</body>
+</html>

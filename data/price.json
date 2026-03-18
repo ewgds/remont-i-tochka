@@ -1,0 +1,633 @@
+{
+  "brands": [
+    {
+      "name": "Apple",
+      "models": [
+        {
+          "name": "iPhone 6",
+          "repairs": {
+            "display": null,
+            "battery_copy": 1900,
+            "battery_original": 2100,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 6s",
+          "repairs": {
+            "display": null,
+            "battery_copy": 1900,
+            "battery_original": 2100,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 7",
+          "repairs": {
+            "display": null,
+            "battery_copy": 1900,
+            "battery_original": 2100,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 8",
+          "repairs": {
+            "display": null,
+            "battery_copy": 1900,
+            "battery_original": 2100,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone X",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2400,
+            "battery_original": 2600,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone XS",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2400,
+            "battery_original": 2600,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone XR",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2400,
+            "battery_original": 2600,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 11",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2300,
+            "battery_original": 2850,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 11 Pro",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2400,
+            "battery_original": 3000,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 11 Pro Max",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2400,
+            "battery_original": 3000,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 12 mini",
+          "repairs": {
+            "display": null,
+            "battery_copy": 2700,
+            "battery_original": 3100,
+            "battery_genuine": 4050,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 12",
+          "repairs": {
+            "display": null,
+            "battery_copy": 3300,
+            "battery_original": 3900,
+            "battery_genuine": 4600,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 12 Pro",
+          "repairs": {
+            "display": null,
+            "battery_copy": 3300,
+            "battery_original": 3900,
+            "battery_genuine": 4600,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 12 Pro Max",
+          "repairs": {
+            "display": null,
+            "battery_copy": 3400,
+            "battery_original": 3950,
+            "battery_genuine": 5200,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 13 mini",
+          "repairs": {
+            "display": null,
+            "battery_copy": 3200,
+            "battery_original": 3900,
+            "battery_genuine": 5000,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 13",
+          "repairs": {
+            "display": null,
+            "battery_copy": 3800,
+            "battery_original": 4500,
+            "battery_genuine": 5500,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 13 Pro",
+          "repairs": {
+            "display": null,
+            "battery_copy": 4000,
+            "battery_original": 4600,
+            "battery_genuine": 5600,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 13 Pro Max",
+          "repairs": {
+            "display": null,
+            "battery_copy": 4100,
+            "battery_original": 4600,
+            "battery_genuine": 5800,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 14",
+          "repairs": {
+            "display": null,
+            "battery_copy": 4500,
+            "battery_original": 5000,
+            "battery_genuine": 5750,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 14 Plus",
+          "repairs": {
+            "display": null,
+            "battery_copy": 4550,
+            "battery_original": 4900,
+            "battery_genuine": 5850,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 14 Pro",
+          "repairs": {
+            "display": null,
+            "battery_copy": 5150,
+            "battery_original": 5800,
+            "battery_genuine": 6300,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 14 Pro Max",
+          "repairs": {
+            "display": null,
+            "battery_copy": 5200,
+            "battery_original": 5900,
+            "battery_genuine": 7000,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 15",
+          "repairs": {
+            "display": null,
+            "battery_copy": 5350,
+            "battery_original": 5800,
+            "battery_genuine": 6350,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 15 Plus",
+          "repairs": {
+            "display": null,
+            "battery_copy": null,
+            "battery_original": null,
+            "battery_genuine": null,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 15 Pro",
+          "repairs": {
+            "display": null,
+            "battery_copy": 6600,
+            "battery_original": 6900,
+            "battery_genuine": 7900,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        },
+        {
+          "name": "iPhone 15 Pro Max",
+          "repairs": {
+            "display": null,
+            "battery_copy": 6600,
+            "battery_original": 7000,
+            "battery_genuine": 8050,
+            "camera": null,
+            "charging_port": null,
+            "buttons": null,
+            "speaker": null,
+            "microphone": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Samsung",
+      "models": [
+        {
+          "name": "Galaxy S21",
+          "repairs": {
+            "display": 6500,
+            "battery": 2800,
+            "charging_port": 3200,
+            "buttons": 2500,
+            "speaker": 2200,
+            "microphone": 2000
+          }
+        },
+        {
+          "name": "Galaxy S21 Ultra",
+          "repairs": {
+            "display": 7200,
+            "battery": 3000,
+            "charging_port": 3400,
+            "buttons": 2600,
+            "speaker": 2300,
+            "microphone": 2100
+          }
+        },
+        {
+          "name": "Galaxy S22",
+          "repairs": {
+            "display": 6800,
+            "battery": 2900,
+            "charging_port": 3300,
+            "buttons": 2600,
+            "speaker": 2300,
+            "microphone": 2100
+          }
+        },
+        {
+          "name": "Galaxy S22 Ultra",
+          "repairs": {
+            "display": 7500,
+            "battery": 3200,
+            "charging_port": 3600,
+            "buttons": 2800,
+            "speaker": 2500,
+            "microphone": 2200
+          }
+        },
+        {
+          "name": "Galaxy S23",
+          "repairs": {
+            "display": 7000,
+            "battery": 3100,
+            "charging_port": 3500,
+            "buttons": 2700,
+            "speaker": 2400,
+            "microphone": 2200
+          }
+        },
+        {
+          "name": "Galaxy S23 Ultra",
+          "repairs": {
+            "display": 7800,
+            "battery": 3400,
+            "charging_port": 3800,
+            "buttons": 2900,
+            "speaker": 2600,
+            "microphone": 2300
+          }
+        },
+        {
+          "name": "Galaxy Note20",
+          "repairs": {
+            "display": 7000,
+            "battery": 3000,
+            "charging_port": 3400,
+            "buttons": 2700,
+            "speaker": 2400,
+            "microphone": 2100
+          }
+        },
+        {
+          "name": "Galaxy A52",
+          "repairs": {
+            "display": 4800,
+            "battery": 2200,
+            "charging_port": 2500,
+            "buttons": 2000,
+            "speaker": 1800,
+            "microphone": 1700
+          }
+        },
+        {
+          "name": "Galaxy A53",
+          "repairs": {
+            "display": 5000,
+            "battery": 2300,
+            "charging_port": 2600,
+            "buttons": 2100,
+            "speaker": 1900,
+            "microphone": 1800
+          }
+        }
+      ]
+    },
+    {
+      "name": "Xiaomi",
+      "models": [
+        {
+          "name": "Mi 11",
+          "repairs": {
+            "display": 5900,
+            "battery": 2500,
+            "charging_port": 2800,
+            "buttons": 2200,
+            "speaker": 2000,
+            "microphone": 1900
+          }
+        },
+        {
+          "name": "Redmi Note 10",
+          "repairs": {
+            "display": 4200,
+            "battery": 1900,
+            "charging_port": 2200,
+            "buttons": 1700,
+            "speaker": 1500,
+            "microphone": 1400
+          }
+        },
+        {
+          "name": "Poco F3",
+          "repairs": {
+            "display": 5000,
+            "battery": 2300,
+            "charging_port": 2600,
+            "buttons": 2000,
+            "speaker": 1800,
+            "microphone": 1700
+          }
+        }
+      ]
+    },
+    {
+      "name": "Google Pixel",
+      "models": [
+        {
+          "name": "Pixel 6",
+          "repairs": {
+            "display": 6500,
+            "battery": 2800,
+            "charging_port": 3200,
+            "buttons": 2500,
+            "speaker": 2300,
+            "microphone": 2100
+          }
+        },
+        {
+          "name": "Pixel 6 Pro",
+          "repairs": {
+            "display": 7200,
+            "battery": 3000,
+            "charging_port": 3500,
+            "buttons": 2700,
+            "speaker": 2500,
+            "microphone": 2300
+          }
+        },
+        {
+          "name": "Pixel 7",
+          "repairs": {
+            "display": 6800,
+            "battery": 2900,
+            "charging_port": 3300,
+            "buttons": 2600,
+            "speaker": 2400,
+            "microphone": 2200
+          }
+        }
+      ]
+    },
+    {
+      "name": "Huawei",
+      "models": [
+        {
+          "name": "P30",
+          "repairs": {
+            "display": 5500,
+            "battery": 2400,
+            "charging_port": 2700,
+            "buttons": 2100,
+            "speaker": 1900,
+            "microphone": 1800
+          }
+        },
+        {
+          "name": "P30 Pro",
+          "repairs": {
+            "display": 6200,
+            "battery": 2600,
+            "charging_port": 3000,
+            "buttons": 2400,
+            "speaker": 2200,
+            "microphone": 2000
+          }
+        },
+        {
+          "name": "P40",
+          "repairs": {
+            "display": 6000,
+            "battery": 2500,
+            "charging_port": 2900,
+            "buttons": 2300,
+            "speaker": 2100,
+            "microphone": 1900
+          }
+        }
+      ]
+    }
+  ],
+  "repairTypes": [
+    {
+      "key": "display",
+      "name": "Замена дисплея"
+    },
+    {
+      "key": "battery_copy",
+      "name": "Замена аккумулятора (Копия 1 в 1)"
+    },
+    {
+      "key": "battery_original",
+      "name": "Замена аккумулятора (Оригинал)"
+    },
+    {
+      "key": "battery_genuine",
+      "name": "Замена аккумулятора (Подлинная деталь)"
+    },
+    {
+      "key": "camera",
+      "name": "Ремонт камеры"
+    },
+    {
+      "key": "charging_port",
+      "name": "Замена разъема зарядки"
+    },
+    {
+      "key": "buttons",
+      "name": "Ремонт кнопок"
+    },
+    {
+      "key": "speaker",
+      "name": "Ремонт динамика"
+    },
+    {
+      "key": "microphone",
+      "name": "Ремонт микрофона"
+    },
+    {
+      "key": "battery",
+      "name": "Замена аккумулятора"
+    }
+  ]
+}

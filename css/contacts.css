@@ -1,0 +1,174 @@
+.contacts-container {
+    margin: 60px 50px;
+}
+
+.contacts-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contacts-header h2 {
+    font-size: 38px;
+    color: #fff;
+    margin: 0 0 12px 0;
+}
+
+.contacts-header h2 span {
+    color: #0EA5E9;
+}
+
+.contacts-header p {
+    font-size: 20px;
+    color: #b6d6e8;
+    margin: 0;
+}
+
+.contacts-content {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+
+.contacts-info {
+    flex: 1;
+    max-width: 550px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contact-card {
+    background: rgba(14, 21, 39, 0.7);
+    border: 1.5px solid #0EA5E9;
+    border-radius: 18px;
+    padding: 28px 24px;
+    box-shadow: 0 2px 8px rgba(14, 150, 213, 0.08);
+    transition: border-color 0.18s, box-shadow 0.18s;
+}
+
+.contact-card:hover {
+    border-color: #0E96D5;
+    box-shadow: 0 10px 20px rgba(14, 150, 213, 0.35);
+    scale: 1.01;
+    transition: all 0.3s ease;
+}
+
+.contact-card h3 {
+    font-size: 22px;
+    color: #fff;
+    margin: 0 0 12px 0;
+    font-weight: 600;
+}
+
+.contact-description {
+    font-size: 16px;
+    color: #b6d6e8;
+    margin: 0;
+    line-height: 1.5;
+}
+
+.phone-link {
+    display: inline-block;
+    font-size: 18px;
+    color: #0EA5E9;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.18s;
+    margin-bottom: 8px;
+}
+
+.phone-link:hover {
+    color: #53c6ff;
+    text-decoration: underline;
+}
+
+.messengers {
+    display: flex;
+    gap: 12px;
+}
+
+.messenger-btn {
+    flex: 1;
+    padding: 10px 24px;
+    border-radius: 22px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform 0.18s, box-shadow 0.18s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.messenger-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.messenger-max {
+    background: linear-gradient(135deg, #6F2DA8 0%, #8B3BBE 100%);
+}
+
+.messenger-telegram {
+    background: linear-gradient(135deg, #0088cc 0%, #00A0E9 100%);
+}
+
+.messenger-whatsapp {
+    background: linear-gradient(135deg, #25D366 0%, #20BA58 100%);
+}
+
+.contacts-map {
+    flex: 1;
+    min-width: 300px;
+    min-height: 500px;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 1.5px solid #0EA5E9;
+    box-shadow: 0 2px 8px rgba(14, 150, 213, 0.08);
+}
+
+.contacts-map iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 500zpx) {
+    .messenger-max {
+        font-size: 10px;
+    }
+
+    .messenger-telegram {
+        font-size: 10px;
+    }
+
+    .messenger-whatsapp {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .contacts-container {
+        margin: 60px 20px;
+    }
+
+    .contacts-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .contacts-info {
+        max-width: none;
+    }
+
+    .contacts-map {
+        flex: none;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto;
+        aspect-ratio: 16 / 9;
+    }
+}
