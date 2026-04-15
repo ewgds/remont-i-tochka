@@ -127,7 +127,7 @@
 .call-field {
     display: flex;
     justify-content: center;
-    margin: 30px;
+    margin-top: 40px;
 }
 
 .call-button {

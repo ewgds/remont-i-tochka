@@ -136,17 +136,10 @@
     height: 100%;
 }
 
-@media (max-width: 500zpx) {
-    .messenger-max {
-        font-size: 10px;
-    }
-
-    .messenger-telegram {
-        font-size: 10px;
-    }
-
-    .messenger-whatsapp {
-        font-size: 10px;
+@media (max-width: 500px) {
+    .messengers {
+        display: flex;
+        flex-direction: column;
     }
 }
 

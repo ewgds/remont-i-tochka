@@ -127,7 +127,7 @@
 
 .repair-list {
     margin: 60px 0 0 0;
-    padding: 0 50px;
+    padding: 0;
 }
 
 .repair-list h2 {
@@ -141,12 +141,11 @@
 
 .repair-list-items {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
     margin-bottom: 40px;
-    padding: 10px;
-    overflow-x: auto;
+    padding: 20px;
 }
 
 .repair-list-card {
@@ -165,7 +164,7 @@
 }
 .repair-list-card:hover {
     border-color: #0E96D5;
-    box-shadow: 0 10px 20px rgba(14, 150, 213, 0.35);
+    box-shadow: 0 0 20px rgba(14, 150, 213, 0.35);
     scale: 1.01;
     transition: all 0.3s ease;
 }
@@ -180,7 +179,7 @@
 
 .advantages {
     margin: 60px 0 0 0;
-    padding: 0 50px;
+    padding: 0;
 }
 
 .advantages h2 {
@@ -193,12 +192,12 @@
 
 .advantages-items {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
     margin-bottom: 40px;
-    padding: 10px;
-    overflow-x: auto;
+    padding: 20px;
+
 }
 
 .advantage-card {
@@ -218,7 +217,7 @@
 }
 .advantage-card:hover {
     border-color: #0E96D5;
-    box-shadow: 0 10px 20px rgba(14, 150, 213, 0.35);
+    box-shadow: 0 0 20px rgba(14, 150, 213, 0.35);
     scale: 1.01;
     transition: all 0.3s ease;
 }
@@ -241,6 +240,7 @@
     margin: 60px 0 0 0;
     padding: 60px 50px;
     text-align: center;
+    background-image: linear-gradient(175deg, #0E1527 50%, #192A57);
 }
 .cta h2 {
     font-size: 36px;
@@ -313,3 +313,18 @@
         font-size: 20px;
     }
 }
+
+/* @media (max-width: 1100px) {
+    .repair-list-items {
+        flex-wrap: wrap;         
+        width: 100%;
+        padding: 0;
+    }
+
+    .advantages-items {
+        flex-wrap: wrap;         
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+} */
