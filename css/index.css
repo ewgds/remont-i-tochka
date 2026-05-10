@@ -1,17 +1,16 @@
 .intro {
+    position: relative;
+    overflow: hidden;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     background-image: linear-gradient(175deg, #0E1527 50%, #192A57);
-
     padding: 0 100px;
 }
 
 .intro_info-block {
     display: flex;
     flex-direction: column;
-
     gap: 40px;
 }
 
